@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Active tip deflection control for wind turbines"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://doi.org/10.1016/j.renene.2019.12.036
+excerpt: 'A novel implementation of individual pitch control (IPC) in wind turbines to reduce loads and increase blade-tower clearance simultaneously.'
+date: 2020-04-01
+venue: 'Renewable Energy'
+paperurl: 'https://doi.org/10.1016/j.renene.2019.12.036'
+citation: 'Liew, J., Lio, W. H., Urbán, A. M., Holierhoek, J., & Kim, T. (2020). Active tip deflection control for wind turbines. Renewable Energy, 149, 445-454.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

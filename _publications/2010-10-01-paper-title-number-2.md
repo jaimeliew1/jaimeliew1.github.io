@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Analytical model for the power-yaw sensitivity of wind turbines operating in full wake"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://doi.org/10.5194/wes-5-427-2020
+excerpt: 'An investigation into how much power is lost in downstream turbines when in full wake.'
+date: 2010-03-31
+venue: 'Wind Energy Science'
+paperurl: 'https://doi.org/10.5194/wes-5-427-2020'
+citation: 'Liew, J., Urbán, A. M., and Andersen, S. J.: Analytical model for the power–yaw sensitivity of wind turbines operating in full wake, Wind Energ. Sci., 5, 427–437, https://doi.org/10.5194/wes-5-427-2020, 2020.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
