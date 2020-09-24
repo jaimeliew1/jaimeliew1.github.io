@@ -6,5 +6,5 @@ excerpt: 'A novel implementation of individual pitch control (IPC) in wind turbi
 date: 2020-04-01
 venue: 'Renewable Energy'
 paperurl: 'https://doi.org/10.1016/j.renene.2019.12.036'
-citation: 'Liew, J., Lio, W. H., Urbán, A. M., Holierhoek, J., & Kim, T. (2020). Active tip deflection control for wind turbines. Renewable Energy, 149, 445-454.'
+citation: '<b>Liew, J.</b>, Lio, W. H., Urbán, A. M., Holierhoek, J., & Kim, T. (2020). Active tip deflection control for wind turbines. Renewable Energy, 149, 445-454.'
 ---
