@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the Technical University of Denmark (DTU) working on the topic of wind farm control optimization using multifidelity modeling. My work revolves around dynamic wind farm simulations, wake modeling, closed-loop control, and machine learning.
+I am a postdoctoral associate at MIT. I completed my Ph.D. at Technical University of Denmark (DTU) working on the topic of dynamic modelling of wind farms for closed-loop control applications. My work revolves around dynamic wind farm simulations, wake modelling, closed-loop control, and machine learning.

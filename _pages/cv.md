@@ -8,10 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+Employment
+=======
+Postdoctoral Associate, Massachusetts Institute of Technology, 2023 - present
+Postdoctoral Researcher, DTU Wind Energy, 2023
 
 Education
 ======
-* Ph.D. in Wind Energy, Technical University of Denmark, 2020-2022 (expected)
+* Ph.D. in Wind Energy, Technical University of Denmark, 2020-2023 
 * M.Sc. in Engineering (European Wind),  Technical University of Denmark, 2016-2018
 * M.Sc. in Aerospace Engineering, Delft University of Technology, 2016-2018
 * Bachelor in Engineering (Mechanical), University of Adelaide, 2011-2015
