@@ -10,8 +10,9 @@ redirect_from:
 {% include base_path %}
 Employment
 =======
-Postdoctoral Associate, Massachusetts Institute of Technology, 2023 - present
-Postdoctoral Researcher, DTU Wind Energy, 2023
+* Senior Engineer, Nordex, 2024 - present
+* Postdoctoral Associate, Massachusetts Institute of Technology, 2023 - 2024
+* Postdoctoral Researcher, DTU Wind Energy, 2023
 
 Education
 ======

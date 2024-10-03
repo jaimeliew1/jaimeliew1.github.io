@@ -83,10 +83,10 @@ author:
   name             : "Jaime Liew"
   avatar           : "jaime_turbine.jpeg"
   bio              : "Wind Energy Engineer"
-  location         : "Boston, USA"
-  employer         : "Massachusetts Institute of Technology"
+  location         : "Germany"
+  employer         : 
   pubmed           :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=7wchaWsAAAAJ&hl=en
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
